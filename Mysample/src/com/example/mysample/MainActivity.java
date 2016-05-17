@@ -86,8 +86,8 @@ public class MainActivity extends Activity {
     		mCamera = null;
     	}
     }
-    private static void OnResume(){
+    public void OnResume(){
     	
-    	this.openCamera();
+    	this.openCamera(1);
     }
 }

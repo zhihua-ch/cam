@@ -50,5 +50,17 @@ public void setCamera(Camera camera){
 public void stopPreviewAndFreeCamera(){
 	
 }
-}
 
+public void surfaceCreated(SurfaceHolder holder){
+	
+}
+public void surfaceDestroyed(SurfaceHolder holder){
+	
+}
+public void surfaceChanged(SurfaceHolder holder, int i, int m, int n){
+	
+}
+protected void onLayout(boolean changed, int left, int top, int right, int bottom){
+	
+}
+}
